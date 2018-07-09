@@ -11,6 +11,8 @@ gem 'sqlite3'
 gem 'puma', '~> 3.11'
 # Bootstrap 4 gem
 gem 'bootstrap', '~> 4.1.1'
+# Devise
+gem 'devise'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use JQuery for Rails
